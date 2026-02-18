@@ -71,25 +71,33 @@
 
 ### Featured Projects
 
+<div align="center">
+
 | Project | Description | Stack |
-|---|---|---|
-| [system-design-skill](https://github.com/git-akki/system-design-skill) | Claude Code skill — system design coach from 7-hour course | AI · MCP |
-| [leave-manager-mcp](https://github.com/git-akki/leave-manager-mcp) | AI-ready Leave Management via Model Context Protocol | Python · MCP |
-| [email-mcp](https://github.com/git-akki/email-mcp) | MCP server for email automation | Python · MCP |
-| [ai-content-creator](https://github.com/git-akki/ai_conttent_creator) | AI-powered content generation system | TypeScript |
-| [vantalo.in](https://github.com/git-akki/vantalo.in) | Full-stack web product | TypeScript · Next.js |
+|:---|:---|:---:|
+| [system-design-skill](https://github.com/git-akki/system-design-skill) | Claude Code skill — system design coach from 7-hour course | `AI` `MCP` |
+| [leave-manager-mcp](https://github.com/git-akki/leave-manager-mcp) | AI-ready Leave Management via Model Context Protocol | `Python` `MCP` |
+| [email-mcp](https://github.com/git-akki/email-mcp) | MCP server for email automation | `Python` `MCP` |
+| [ai-content-creator](https://github.com/git-akki/ai_conttent_creator) | AI-powered content generation system | `TypeScript` |
+| [vantalo.in](https://github.com/git-akki/vantalo.in) | Full-stack web product | `Next.js` |
+
+</div>
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-akki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-akki&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" height="170"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=git-akki&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=aaa&icon_color=fff&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-akki&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=aaa&langs_count=6"/>
 </div>
 
+---
+
+### Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=git-akki&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
+  <img src="https://streak-stats.demolab.com?user=git-akki&hide_border=true&background=0d1117&stroke=333&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=aaa&sideLabels=aaa&dates=555&mode=weekly"/>
 </div>
 
 ---
@@ -97,7 +105,7 @@
 ### Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=git-akki&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=git-akki&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 </div>
 
 ---
@@ -105,11 +113,11 @@
 ### Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-akki&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-akki&bg_color=0d1117&color=aaaaaa&line=ffffff&point=ffffff&area_color=1a1a1a&area=true&hide_border=true&custom_title=Contribution+Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=git-akki&label=Profile+views&color=ffffff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=git-akki&label=profile+views&color=555&style=flat-square"/>
 </div>
